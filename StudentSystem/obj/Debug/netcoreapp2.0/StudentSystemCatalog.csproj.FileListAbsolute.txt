@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystemCatalog.deps.json
+C:\Users\User\source\repos\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystemCatalog.runtimeconfig.json
+C:\Users\User\source\repos\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystemCatalog.runtimeconfig.dev.json
+C:\Users\User\source\repos\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystemCatalog.dll
+C:\Users\User\source\repos\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\bin\Debug\netcoreapp2.0\StudentSystemCatalog.pdb
+C:\Users\User\source\repos\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystemCatalog.csprojAssemblyReference.cache
+C:\Users\User\source\repos\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystemCatalog.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystemCatalog.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystemCatalog.AssemblyInfo.cs
+C:\Users\User\source\repos\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystemCatalog.dll
+C:\Users\User\source\repos\01. CSharp-OOP-Working-with-Abstraction-Lab-Resources\StudentSystem\obj\Debug\netcoreapp2.0\StudentSystemCatalog.pdb

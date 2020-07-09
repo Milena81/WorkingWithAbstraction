@@ -1,0 +1,26 @@
+﻿namespace StudentSystemCatalog
+{
+    using Commands;
+    using Data;
+    using Students;
+
+    public class Startup
+    {
+        public static void Main()
+        {
+
+            var commandParser = new commandParser();
+            var studentSystem = new StudentSystem();
+            var dataReader = new ConsoleDataReader();
+            var dataWriter = new ConsoleDataWriter();
+
+            var engine = new Engine(
+                commandParser, 
+                studentSystem,
+                dataReader,
+                dataWriter);
+
+            engine.Run();
+        }
+    }
+}
